@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Theory - Computational optimization strategies for electrode design 
+title: Computational optimization strategies for electrode design 
 ---
 
 Modeling strategies have the potential to enable the bottom-up design of reactor components through optimization strategies. The rapid rise in computational power has driven the increasing interest in optimization methods for a wide range of applications, including electrochemical technologies. The optimization of the electrode structure is of special interest because of a range of contracting requirements that motivate computational work, i.e., high electrochemical surface area, facile mass transport, and low pressure drop. 

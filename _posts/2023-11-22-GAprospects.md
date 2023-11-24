@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Future work - Genetic algorithm to guide the manufacturing of bottom-up designed electrodes
+title: Genetic algorithm prospects, to guide the manufacturing of bottom-up designed electrodes
 ---
 
 In our developed genetic algorithm (GA), optimized porous electrodes are computed from the bottom-up by natural selection of the fittest structures driven by the theory of evolution. A GA has a high degree of evolutionary freedom and can easily be adapted and expanded depending on the operating conditions (potential, flow rate), network properties (artificial, extracted), system configuration (flow field, electrolyte), and desired optimization functions (mutation, migration). The framework was built to speed up and guide the design of electrodes for electrochemical applications, with a focus on redox flow batteries. As a greater scientific impact can be made by sharing research, the modeling framework with all added extensions is made available on GitHub as the presented GA is a proof-of-concept and should be further developed in future work. Possible extensions or improvements of the modeling framework include:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Future work - Pore network modeling, towards predictive models
+title: Pore network modeling prospects, towards predictive models 
 ---
 
 The pore network model (PNM) that we developed is an effective computational model for simulating the performance of porous electrodes for a wide variety of operating conditions. As the real electrode can be translated to a pore network, the electrode microstructure can be correlated to the performance, and structure-performance relationships can be elucidated to guide the design of novel porous electrodes for electrochemical applications. Although effective, the PNM can be further improved to better capture the electrode performance. In this post, possible extensions of the model are provided, of which some are currently being explored and therefore discussed in more detail. By developing a computational modeling framework, we aim to speed up the understanding and design of electrodes for electrochemical applications, with a focus on redox flow batteries. Hence, by collaborating and sharing our research we can make a greater impact on society. Therefore, the pore network model with several extensions is available on GitHub (see 'Open-source codes'). 

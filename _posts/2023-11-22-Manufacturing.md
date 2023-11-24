@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Theory - Electrode additive manufacturing
+title: Electrode additive manufacturing
 ---
 
 The performance of porous electrodes in RFBs is defined by their microstructure and surface chemical composition. The microstructure determines the available open space for the transport of species, electronic conductivity, permeability, and the available area for reactions. Whereas the surface chemical composition determines the kinetic rate constant, wettability, and selectivity. Conventional porous electrodes used in RFBs are papers, cloths, and felts, which are fibrous mats assembled in coherent structures fabricated by the carbonization of polymeric fiber precursors. The manufacturing processes used, e.g., weaving, compacting, hydroentangling, and electrospinning, define the arrangement of the carbon fibers and thus impact the electrode structure and resulting thickness [1, 2]. However, these commercial electrodes are repurposed from polymer electrolyte fuel cell gas diffusion layers and are not optimized for all-liquid RFBs [2, 3]. Moreover, conventional electrodes feature limited morphological diversity as a result of the manufacturing techniques used, motivating the development of new manufacturing techniques with high control on the material properties and structure, e.g., electrospinning [4], post-synthetic modifications [2, 5], non-solvent induced phase-separation [6, 3], metal foams [7], etching [8], and additive manufacturing (3D printing) methods [9, 10, 11]. 

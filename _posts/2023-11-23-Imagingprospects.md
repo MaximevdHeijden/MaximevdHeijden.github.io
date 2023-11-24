@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Future work - Advanced imaging techniques, locally resolved diagnostics
+title: Advanced imaging techniques prospects, locally resolved diagnostics
 ---
 
 Throughout my work I emplyed advanced imaging techniques, including X-ray tomographic microscopy (XTM) and neutron imaging. Locally resolved diagnostics enable a deeper understanding of local properties within the reactor, providing key information regarding the operando transport processes in the electrochemical cell. Advanced imaging is thus crucial in flow battery research and should be developed further. Possible research directions include:

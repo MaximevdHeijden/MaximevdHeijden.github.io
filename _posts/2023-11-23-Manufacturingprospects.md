@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Future work - Advanced manufacturing, towards enhanced performance
+title: Advanced manufacturing prospects, towards enhanced performance
 ---
 
 During my PhD I investigated the potential of 3D printing as a manufacturing technique for RFB electrodes. Even though the studied model grid structures were produced using a low-resolution stereolithography 3D printer (0.9 x 0.9 x 0.9 mm3 pores with a pillar thickness of 0.3 mm) resulting in a low internal surface area, we showed that the mass transport and pressure drop can be improved compared to off-the-shelf electrodes. To become competitive with commercially used electrodes, alternative 3D printing techniques must be investigated in combination with optimized electrode designs. To this end, I propose to explore the following:
