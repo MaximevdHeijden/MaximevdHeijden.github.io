@@ -5,6 +5,11 @@ title: Publications
 
 In this page you will find my publications (peer reviewed and archived), organized by date. I aim to make them all open access, but if you cannot access a  publication please send me an email: m.v.d.heijden@tue.nl.
 
+(11) **Preprint**\
+M. van der Heijden, G. Szendrei, V. de Haas, A. Forner-Cuenca\
+**[A versatile optimization framework for porous electrode design](https://chemrxiv.org/engage/chemrxiv/article-details/6560c531cf8b3c3cd70785eb)**\
+*ChemRxiv* 2023  
+
 (10) **Preprint**\
 R.R. Jacquemond & M. van der Heijden & E.B. Boz, E.R.C. Ruiz, K.V. Greco, J.A. Kowalski, V. Muñoz Perales, F.R. Brushett, D.C. Nijmeijer, P. Boillat, A. Forner-Cuenca\
 **[Unravelling Concentration Profiles in Redox Flow Batteries Using Neutron Radiography](https://chemrxiv.org/engage/chemrxiv/article-details/64e77958dd1a73847f6d8c15)**\
