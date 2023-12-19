@@ -6,7 +6,7 @@ title: PhD Research
 <img src="/public/Summary.png" alt="color photo ftl" width="50%" height="auto" />
 
 
-If you want to know more about my PhD research, check out my [thesis](/public/files/Thesis M van der Heijden 13112023 with cover.pdf)!
+If you want to know more about my PhD research, check out my [thesis](/public/files/Thesis M van der Heijden 13112023 - with cover.pdf)!
   
 ## Summary
 
