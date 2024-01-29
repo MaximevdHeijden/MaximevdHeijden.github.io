@@ -24,4 +24,4 @@ The image processing can be performed using the steps described below, which cou
 **TIP:** If you have large data files, use a PC with enough RAM and close the files that you are not using.\
 
 An example of the [script](/public/blog/Script_imageprocessing.ijm) is shown below:\
-<img src="/public/blog/Netwerk_extraction_script.png" alt="color photo ftl" width="50%" height="auto" />
+<img src="/public/blog/Netwerk_extraction_script.PNG" alt="color photo ftl" width="50%" height="auto" />
