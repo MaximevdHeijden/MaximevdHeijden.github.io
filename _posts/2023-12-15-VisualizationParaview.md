@@ -10,7 +10,7 @@ The first step is running the ‘GA_to_VTK_and_properties_Windows’ script, gen
     •	 /Genetic_Algorithm/…_velocity.vtp file with the absolute velocity and flowrate saved.\
 To obtain the pore size, concentration, absolute velocity, and hydraulic conductance visualizations, the /Genetic_Algorithm/…_velocity.vtp files can be used and loaded into Paraview.
 
-## Settings for the pore diameter visualization
+# Settings for the pore diameter visualization
 To obtain the .png figures, the following procedure can be followed:\
     •	Adjust camera:\
         The settings that were used for the visualization of the cubic network are shown below:\
@@ -30,10 +30,10 @@ To obtain the .png figures, the following procedure can be followed:\
     •	Exporting the figures:\
         Press the ‘Capture screenshot to the clipboard…’ (third symbol in the Layout screen) and go to File/Save Screenshot…. Save the screenshot and change the options to a ‘Transparent Background’.
 
-## Settings for the pore concentration visualization
+# Settings for the pore concentration visualization
 For the concentration figures, the same procedure can be used as described for the pore diameter, but with different settings in the ‘Glyph’ filter. The ‘Coloring’ should be changed to ‘network | net_01 | properties | pore.concentration’ and the ‘Color Map Editor’ should have a different ‘Set Range’ (for example 95 – 100) and the ‘Choose Preset’ can be changed to for example the ‘Concentration’ color scale that is saved under the [Image processing](https://github.com/MaximevdHeijden/GA-RFB-electrode/tree/main/Image%20processing) folder in GitHub.
 
-## Settings for the absolute velocity visualization
+# Settings for the absolute velocity visualization
 To obtain the absolute velocity plots, a different procedure must be followed as the actual throat sizes must be visualized. To this end several filters must be applied in the following order:\
     •	Shrink, with a ‘Shrink Factor’ of 1.\
     •	Cell Data to Point Data\
@@ -45,5 +45,5 @@ To obtain the absolute velocity plots, a different procedure must be followed as
         o	Vary Radius: By Scalar\
         After applying, the ‘Coloring’ can be changed to phase | catholyte | properties | throat.absolute_velocity. In the ‘Color Map Editor’ change the ‘Mapping Data’ in ‘Choose Preset’ to for example the ‘Absolute_velocity’ color scale that is saved under the [Image processing](https://github.com/MaximevdHeijden/GA-RFB-electrode/tree/main/Image%20processing) folder in GitHub. Then change the ‘Set Range’ from 0 to 0.1 for example.
 
-## Settings for the throat hydraulic conductance visualization
+# Settings for the throat hydraulic conductance visualization
 For the hydraulic conductance figures, the same procedure can be used as described for the absolute velocity, but with different settings in the ‘Tube’ filter. The ‘Scalars’ and ‘Coloring’ should be changed to ‘phase | catholyte | properties | throat.hydraulic_conductance’ and the ‘Color Map Editor’ should have a different ‘Set Range’ (for example 1e-20 – 1e-12) and the ‘Choose Preset’ can be changed to for example the ‘Black-Body Radiation’ color scale which can then be inverted using the ‘Invert the transfer functions’ button (fifth button in ‘Mapping Data’).
