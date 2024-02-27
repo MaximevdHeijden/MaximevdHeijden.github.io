@@ -6,9 +6,9 @@ title: Visualization with Paraview - Networks generated with the GA-RFB-electrod
 To obtain a visual representation of the networks generated with the [GA-RFB-electrode tool](https://github.com/MaximevdHeijden/GA-RFB-electrode), the following procedure can be followed.\
 The first step is running the ‘GA_to_VTK_and_properties_Windows’ script, generating the following output files:\
     •	/output/GA/… folder with the polarization curve data, throat and pore information for the distinct layers (in case of a cubic network), and .vtp files with the anodic and cathodic networks with and without surface pores.\
-    •	/output/…_psd.xlsx file with the pore size distribution data of the network.\
-    •	 /Genetic_Algorithm/…_velocity.vtp file with the absolute velocity and flowrate saved.\
-To obtain the pore size, concentration, absolute velocity, and hydraulic conductance visualizations, the /Genetic_Algorithm/…_velocity.vtp files can be used and loaded into Paraview.
+    •	/output/GA/…_psd.xlsx file with the pore size distribution data of the network.\
+    •	 /output/GA/…_velocity.vtp file with the absolute velocity and flowrate saved.\
+To obtain the pore size, concentration, absolute velocity, and hydraulic conductance visualizations, the /output/GA/…_velocity.vtp files can be used and loaded into Paraview.
 
 # Settings for the pore diameter visualization
 To obtain the .png figures, the following procedure can be followed:\
