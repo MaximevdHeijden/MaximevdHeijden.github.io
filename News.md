@@ -4,7 +4,7 @@ title: News
 ---
 
 ## Upcoming events:
-**Redox Flow Battery Event April 8-9 at TU/e: Flow4UBattery Event**
+**Redox Flow Battery Event April 8-9 at TU/e: Flow4UBattery Event**\
 Zwarte Doos, Auditorium, and Helix at the Eindhoven University of Technology campus\
 On April 8th and 9th the TU/e, Team Energy, EIRES, and 4TU are organizing a redox flow battery event. The first day will focus on in-depth scientific talks and discussions about redox flow battery research, and on the second day there will be hands-on workshops, demonstrations, and lab tours.\
 Secure your spot for this nice event and register for free using the following [link](https://www.eventbrite.com/e/flow4ubattery-event-pioneering-energy-storage-solutions-tickets-851447120257?aff=oddtdtcreator). See you there!
