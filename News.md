@@ -5,7 +5,7 @@ title: News
 
 ## Past events:
 **Pore Research Community Interview**\
-David Rieder, Frank Peters, and I have been featured in the June edition of the EIRES - Eindhoven Institut for Renewable Energy Systems Energizer about the Pore Network Community we are setting up! This community aims to help newcomers to the field of Pore Network Modeling at TU/e to take the first steps in their research, but also for others working on this exciting topic to exchange thoughts and ideas and share their codes. You can read the interview [here](https://www.tue.nl/en/research/institutes/eindhoven-institute-for-renewable-energy-systems/focus-areas/pore-research-community).\
+David Rieder, Frank Peters, and I have been featured in the June edition of the EIRES - Eindhoven Institut for Renewable Energy Systems Energizer about the Pore Network Community we are setting up! This community aims to help newcomers to the field of Pore Network Modeling at TU/e to take the first steps in their research, but also for others working on this exciting topic to exchange thoughts and ideas and share their codes. You can read the interview [here](https://www.tue.nl/en/research/institutes/eindhoven-institute-for-renewable-energy-systems/focus-areas/pore-research-community).
 
 **EMS group trip May 1-3**\
 May 1st - 3rd we organized a group trip with the Electrochemical Materials and Systems group which included visits to TU Delft, Battolyser, UvA, and Surf. It was a great trip full of lab tours, scientific presentations, workshops, and group bonding!\
