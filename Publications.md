@@ -5,14 +5,17 @@ title: Publications
 
 In this page you will find my publications (peer reviewed and archived), organized by date. I aim to make them all open access, but if you cannot access a  publication please send me an email: m.v.d.heijden@tue.nl.
 
-(11) **Preprint**\
-R.R. Jacquemond & M. van der Heijden & E.B. Boz, E.R.C. Ruiz, K.V. Greco, J.A. Kowalski, V. Muñoz Perales, F.R. Brushett, D.C. Nijmeijer, P. Boillat, A. Forner-Cuenca\
+(12) R.R. Jacquemond & M. van der Heijden & E.B. Boz, E.R.C. Ruiz, K.V. Greco, J.A. Kowalski, V. Muñoz Perales, F.R. Brushett, D.C. Nijmeijer, P. Boillat, A. Forner-Cuenca\
 **[Unravelling Concentration Profiles in Redox Flow Batteries Using Neutron Radiography](https://chemrxiv.org/engage/chemrxiv/article-details/64e77958dd1a73847f6d8c15)**\
-*ChemRxiv* (2023)  
+Accepted in *Nature Communications* (2024)  
 
+(11) E.B. Boz, M. van der Heijden, R.R. Jacquemond, P. Boillat, J. Hjelm, A. Forner-Cuenca\
+**[Correlating electrolyte infiltration with accessible surface area in microporous electrodes using neutron radiography](https://iopscience.iop.org/article/10.1149/1945-7111/ad4ac7)**\
+*Journal of the Electrochemical Society* (2024), 171, 053509
+ 
 (10) M. van der Heijden, G. Szendrei, V. de Haas, A. Forner-Cuenca\
 **[A versatile optimization framework for porous electrode design](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d3dd00247k)**\
-*Digital Discovery, Accepted Manuscript* (2024) 
+*Digital Discovery*, Accepted Manuscript (2024) 
 
 (9) V. Muñoz Perales & M. van der Heijden, V. de Haas, J. Olinga, M. Vera, A. Forner-Cuenca\
 **[Understanding the Role of Electrode Thickness on Redox Flow Cell Performance](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/celc.202300380)**\

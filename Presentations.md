@@ -5,9 +5,21 @@ title: Presentations and Posters
 
 In this page I will post my presentations and posters, organized by date, presented at various national and international conferences.
 
+**Advanced Manufacturing of Electrochemical Devices**\
+In-person invited seminar at the *University of Waterloo*, Waterloo, Canada, 2024\
+[presentation](/public/files/Seminar University of Waterloo - M van der Heijden modified.pptx)
+
+**Transport Phenomena and Cell Overpotentials in Redox Flow Batteries**\
+In-person invited lecture at the *University of Waterloo*, Waterloo, Canada, 2024\
+[presentation](/public/files/Lecture University of Waterloo - M van der Heijden modified.pptx)
+
 **Stereolithography 3D Printing As a Versatile Tool to Manufacture Porous Electrodes for Redox Flow Batteries**\
 Oral presentation at the *244th Electrochemical Society Meeting*, Gothenburg, Denmark, 2023\
 [image](/public/pictures/ECS 2023-2.jpg) \| [abstract](/public/files/Abstract - ECS 2023 October - Maxime van der Heijden - Final.pdf) \| [presentation](/public/files/2023_Maxime van der Heijden_ECS presentation Sweden_3D printing.pptx)
+
+**Starting from the Bottom: Coupling a Genetic Algorithm and a Pore Network Model for Porous Electrode Design**\
+In-person invited seminar at *Columbia University*, New York, US, 2023\
+[presentation](/public/files/Columbia - M van der Heijden.pptx)
 
 **Starting from the Bottom: Coupling a Genetic Algorithm and a Pore Network Model for Porous Electrode Design**\
 Oral presentation at the *243rd Electrochemical Society Meeting*, Boston, US, 2023\
