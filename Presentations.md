@@ -6,12 +6,10 @@ title: Presentations and Posters
 In this page I will post my presentations and posters, organized by date, presented at various national and international conferences.
 
 **Advanced Manufacturing of Electrochemical Devices**\
-In-person invited seminar at the *University of Waterloo*, Waterloo, Canada, 2024\
-[presentation](/public/files/Seminar University of Waterloo - M van der Heijden modified.pptx)
+In-person invited seminar at the *University of Waterloo*, Waterloo, Canada, 2024
 
 **Transport Phenomena and Cell Overpotentials in Redox Flow Batteries**\
-In-person invited lecture at the *University of Waterloo*, Waterloo, Canada, 2024\
-[presentation](/public/files/Lecture University of Waterloo - M van der Heijden modified.pptx)
+In-person invited lecture at the *University of Waterloo*, Waterloo, Canada, 2024
 
 **Stereolithography 3D Printing As a Versatile Tool to Manufacture Porous Electrodes for Redox Flow Batteries**\
 Oral presentation at the *244th Electrochemical Society Meeting*, Gothenburg, Denmark, 2023\

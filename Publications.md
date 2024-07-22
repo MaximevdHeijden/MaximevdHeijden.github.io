@@ -15,7 +15,7 @@ Accepted in *Nature Communications* (2024)
  
 (10) M. van der Heijden, G. Szendrei, V. de Haas, A. Forner-Cuenca\
 **[A versatile optimization framework for porous electrode design](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d3dd00247k)**\
-*Digital Discovery*, Accepted Manuscript (2024) 
+*Digital Discovery* (2024), 3, 1292-1307 
 
 (9) V. Muñoz Perales & M. van der Heijden, V. de Haas, J. Olinga, M. Vera, A. Forner-Cuenca\
 **[Understanding the Role of Electrode Thickness on Redox Flow Cell Performance](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/celc.202300380)**\

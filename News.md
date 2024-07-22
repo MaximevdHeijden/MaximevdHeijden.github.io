@@ -4,6 +4,9 @@ title: News
 ---
 
 ## Past events:
+**Journal Cover**\
+Happy to see our work on genetic optimization of porous electrodes for electrochemical applications featured at the inside cover of Digital Discovery! You can find the cover and article [here](https://pubs.rsc.org/en/content/articlepdf/2024/dd/d3dd00247k).
+
 **Pore Research Community Interview**\
 David Rieder, Frank Peters, and I have been featured in the June edition of the EIRES - Eindhoven Institut for Renewable Energy Systems Energizer about the Pore Network Community we are setting up! This community aims to help newcomers to the field of Pore Network Modeling at TU/e to take the first steps in their research, but also for others working on this exciting topic to exchange thoughts and ideas and share their codes. You can read the interview [here](https://www.tue.nl/en/research/institutes/eindhoven-institute-for-renewable-energy-systems/focus-areas/pore-research-community).
 
