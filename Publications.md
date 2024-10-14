@@ -6,8 +6,8 @@ title: Publications
 In this page you will find my publications (peer reviewed and archived), organized by date. I aim to make them all open access, but if you cannot access a  publication please send me an email: m.v.d.heijden@tue.nl.
 
 (12) R.R. Jacquemond & M. van der Heijden & E.B. Boz, E.R.C. Ruiz, K.V. Greco, J.A. Kowalski, V. Muñoz Perales, F.R. Brushett, D.C. Nijmeijer, P. Boillat, A. Forner-Cuenca\
-**[Unravelling Concentration Profiles in Redox Flow Batteries Using Neutron Radiography](https://chemrxiv.org/engage/chemrxiv/article-details/64e77958dd1a73847f6d8c15)**\
-Accepted in *Nature Communications* (2024)  
+**[Quantifying concentration distributions in redox flow batteries with neutron radiography](https://www.nature.com/articles/s41467-024-50120-7)**\
+*Nature Communications* (2024), 15, 7434
 
 (11) E.B. Boz, M. van der Heijden, R.R. Jacquemond, P. Boillat, J. Hjelm, A. Forner-Cuenca\
 **[Correlating electrolyte infiltration with accessible surface area in microporous electrodes using neutron radiography](https://iopscience.iop.org/article/10.1149/1945-7111/ad4ac7)**\
