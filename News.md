@@ -3,6 +3,14 @@ layout: page
 title: News
 ---
 
+## Future events:
+**Job Alert**\
+After 10 years at the TU/e, it's time to say goodbye and take the next big step in my career.  On January 1st I will start as Assistant Professor at the Chemical Engineering Department at the University of Waterloo in Canada! I look forward to this big and exciting next step that we will take in 2025. My group will be centered around porous materials for electrochemical devices by combining additive manufacturing, machine learning, cell design, and imaging techniques with the aim to engineer improved and tailored designs. If this sounds interesting to you, please don't hesitate to reach out.
+
+**AIChE conference**\
+12:55 pm, Tuesday, October 29, Hilton San Diego Bayfront Hotel, Aqua 313.\
+I will attend the AIChE Annual conference in San Diego, starting the 27th of October, where I will be presenting my entitled: *A Versatile Optimization Framework for Porous Electrode Design: Coupling a Genetic Algorithm and a Pore Network Model*. Hope to see you there!
+
 ## Past events:
 **Journal Cover**\
 Happy to see our work on genetic optimization of porous electrodes for electrochemical applications featured at the inside cover of Digital Discovery! You can find the cover and article [here](https://pubs.rsc.org/en/content/articlepdf/2024/dd/d3dd00247k).
