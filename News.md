@@ -7,11 +7,17 @@ title: News
 **Job Alert**\
 After 10 years at the TU/e, it's time to say goodbye and take the next big step in my career.  On January 1st I will start as Assistant Professor at the Chemical Engineering Department at the University of Waterloo in Canada! I look forward to this big and exciting next step that we will take in 2025. My group will be centered around porous materials for electrochemical devices by combining additive manufacturing, machine learning, cell design, and imaging techniques with the aim to engineer improved and tailored designs. If this sounds interesting to you, please don't hesitate to reach out.
 
-**AIChE conference**\
-12:55 pm, Tuesday, October 29, Hilton San Diego Bayfront Hotel, Aqua 313.\
-I will attend the AIChE Annual conference in San Diego, starting the 27th of October, where I will be presenting my entitled: *A Versatile Optimization Framework for Porous Electrode Design: Coupling a Genetic Algorithm and a Pore Network Model*. Hope to see you there!
-
 ## Past events:
+**AMCEL Thesis Award 2023 and AMCEL Symposium**\
+November 1st, Amsterdam.\
+I am very honored to receive the AMCEL award for the best PhD thesis of 2023 in electrochemistry! I recieved the award during the AMCEL symposium where I additionally presented my thesis work and postdoctoral projects. 
+[picture 1](/public/pictures/AMCEL.jpeg) | [picture 2](/public/pictures/AMCEL award.jpg) 
+
+**AIChE conference**\
+October 27nd - 31st, San Diego.\
+I attended the AIChE Annual conference in San Diego, where I presentied our work entitled: *A Versatile Optimization Framework for Porous Electrode Design: Coupling a Genetic Algorithm and a Pore Network Model*. 
+[picture 1](/public/pictures/AICHE.jpeg)
+
 **Journal Cover**\
 Happy to see our work on genetic optimization of porous electrodes for electrochemical applications featured at the inside cover of Digital Discovery! You can find the cover and article [here](https://pubs.rsc.org/en/content/articlepdf/2024/dd/d3dd00247k).
 
