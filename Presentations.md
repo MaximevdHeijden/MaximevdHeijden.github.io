@@ -7,11 +7,11 @@ In this page I will post my presentations and posters, organized by date, presen
 
 **Engineering Porous Electrodes for Redox Flow Batteries: Modeling, Diagnostics, and Manufacturing**\
 Keynote at the *AMCEL symposium*, Amsterdam, The Netherlands, 2024\
-[picture 1](/public/pictures/AMCEL.jpg) \| [presentation](/public/files/2024_Maxime van der Heijden_AMCEL_Award.pptx)
+[picture 1](/public/pictures/AMCEL.jpeg) \| [presentation](/public/files/2024_Maxime van der Heijden_AMCEL_Award.pptx)
 
 **A Versatile Optimization Framework for Porous Electrode Design: Coupling a Genetic Algorithm and a Pore Network Model**\
 Oral presentation at the *2024 AIChE Annual Meeting*, San Diego, US, 2024\
-[picture 1](/public/pictures/AICHE.jpg) \| [abstract](/public/files/2024_Maxime van der Heijden_AICHE presentation_PNM-GA_abstract.pdf) \| [presentation](/public/files/2024_Maxime van der Heijden_AICHE_GA2.pptx)
+[picture 1](/public/pictures/AICHE.jpeg) \| [abstract](/public/files/2024_Maxime van der Heijden_AICHE presentation_PNM-GA_abstract.pdf) \| [presentation](/public/files/2024_Maxime van der Heijden_AICHE_GA2.pptx)
 
 **Advanced Manufacturing of Electrochemical Devices**\
 In-person invited seminar at the *University of Waterloo*, Waterloo, Canada, 2024
