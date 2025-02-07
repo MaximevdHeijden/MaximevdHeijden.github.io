@@ -4,10 +4,14 @@ title: News
 ---
 
 ## Future events:
-**Job Alert**\
-After 10 years at the TU/e, it's time to say goodbye and take the next big step in my career.  On January 1st I will start as Assistant Professor at the Chemical Engineering Department at the University of Waterloo in Canada! I look forward to this big and exciting next step that we will take in 2025. My group will be centered around porous materials for electrochemical devices by combining additive manufacturing, machine learning, cell design, and imaging techniques with the aim to engineer improved and tailored designs. If this sounds interesting to you, please don't hesitate to reach out.
+**March Open House**\
+Join us Saturday March 22 from 10 am - 4 pm at the University of Waterloo's March Open House! Chat with professors and students, take tours and visit the residences, and attend in-person sessions. More information about the March Open House and how to register can be found [here](https://uwaterloo.ca/future-students/march-open-house-registration).
 
 ## Past events:
+**ChE Grad Fair**\
+January 24th, 3:30 - 5:30 pm, University of Waterloo.\
+The first Chemical Engineering Graduate Recruitment Fair was a big success! Many potential students joined the fair to meet the faculty, current students, and to visit the ChE facilities.
+
 **AMCEL Thesis Award 2023 and AMCEL Symposium**\
 November 1st, Amsterdam.\
 I am very honored to receive the AMCEL award for the best PhD thesis of 2023 in electrochemistry! I recieved the award during the AMCEL symposium where I additionally presented my thesis work and postdoctoral projects.\
