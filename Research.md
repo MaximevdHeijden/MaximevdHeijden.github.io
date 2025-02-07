@@ -2,9 +2,7 @@
 layout: page
 title: Research Topics
 ---
-\
 
-## Summary
 Our research group focuses on the manufacturing of porous materials for electrochemical devices, such as redox flow batteries, water electrolyzers, and fuel cells. Our research bridges the gap between experimental and computational approaches by combining imaging diagnostics, computational optimization, and additive manufacturing strategies. This enables us to design new porous materials tailored to specific reactor designs and operation conditions, ultimately improving the efficiency, durability, and cost-effectiveness of electrochemical devices.\
 
 Our research concentrates on three interconnected topics:\
