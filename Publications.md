@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-In this page you will find my publications (peer reviewed and archived), organized by date. I aim to make them all open access, but if you cannot access a  publication please send me an email: m.v.d.heijden@tue.nl.
+In this page you will find our publications (peer reviewed and archived), organized by date. We aim to make them all open access, but if you cannot access a publication please send an email to: maxime.vanderheijden (at) uwaterloo.ca.
 
 (12) R.R. Jacquemond & M. van der Heijden & E.B. Boz, E.R.C. Ruiz, K.V. Greco, J.A. Kowalski, V. Muñoz Perales, F.R. Brushett, D.C. Nijmeijer, P. Boillat, A. Forner-Cuenca\
 **[Quantifying concentration distributions in redox flow batteries with neutron radiography](https://www.nature.com/articles/s41467-024-50120-7)**\
@@ -16,6 +16,10 @@ In this page you will find my publications (peer reviewed and archived), organiz
 (10) M. van der Heijden, G. Szendrei, V. de Haas, A. Forner-Cuenca\
 **[A versatile optimization framework for porous electrode design](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d3dd00247k)**\
 *Digital Discovery* (2024), 3, 1292-1307 
+
+(Dissertation) M. van der Heijden\
+**[Engineering Porous Electrodes for Redox Flow Batteries - Modeling, Diagnostics, and Manufacturing](/public/files/Thesis M van der Heijden 13112023 - with cover.pdf)**\
+*Eindhoven University of Technology* (2023)
 
 (9) V. Muñoz Perales & M. van der Heijden, V. de Haas, J. Olinga, M. Vera, A. Forner-Cuenca\
 **[Understanding the Role of Electrode Thickness on Redox Flow Cell Performance](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/celc.202300380)**\
