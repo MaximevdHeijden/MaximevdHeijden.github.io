@@ -4,14 +4,12 @@ title: Contact
 ---
 
 Maxime van der Heijden\
-Electrochemical Materials and Systems\
-Department of Chemical Engineering and Chemistry\
-Building 14 – Helix STO 1.27\
-m.v.d.heijden@tue.nl
+Department of Chemical Engineering\
+Building E6 – 2006\
+University of Waterloo\
+maxime.vanderheijden@uwwaterloo.ca
 
-[My page at the TU/e research portal](https://www.tue.nl/en/research/researchers/maxime-van-der-heijden)
+[Chemical Engineering - UW]([https://www.tue.nl/en/research/researchers/maxime-van-der-heijden](https://uwaterloo.ca/chemical-engineering/))
 
-[My TU/e webpage](https://research.tue.nl/en/persons/maxime-van-der-heijden)
-
-[Electrochemical Materials and Systems team members](https://www.fornercuencaresearch.com/members/)
+[My UW webpage]([https://research.tue.nl/en/persons/maxime-van-der-heijden](https://uwaterloo.ca/chemical-engineering/profile/m35vande))
 
