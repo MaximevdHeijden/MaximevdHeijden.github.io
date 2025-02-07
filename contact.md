@@ -9,7 +9,7 @@ Building E6 – 2006\
 University of Waterloo\
 maxime.vanderheijden@uwwaterloo.ca
 
-[Chemical Engineering - UW]([https://uwaterloo.ca/chemical-engineering/]))
+[Chemical Engineering - UW](https://uwaterloo.ca/chemical-engineering/)
 
-[My UW webpage]([https://uwaterloo.ca/chemical-engineering/profile/m35vande]))
+[My UW webpage](https://uwaterloo.ca/chemical-engineering/profile/m35vande)
 
