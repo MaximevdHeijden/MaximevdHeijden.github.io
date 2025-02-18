@@ -13,4 +13,4 @@ maxime.vanderheijden@uwwaterloo.ca
 
 [My UW webpage](https://uwaterloo.ca/chemical-engineering/profile/m35vande)
 
-Currently considering applications from graduate students. A completed online application is required for admission; [start the application process now](https://uwaterloo.ca/future-graduate-students/admissions/how-to-apply).
+Although I don't currently have any open positions, I encourage exceptional students to send their CV and transcripts. Students with scholarships are always welcome to apply.
