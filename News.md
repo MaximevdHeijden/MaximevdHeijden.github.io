@@ -6,7 +6,7 @@ title: News
 ## Future events:
 **InterPore2025 conference**\
 May 19th - 22nd, Albuquerque.\
-Maxime van der Heijden will attend the InterPore Annual conference in Albuquerque, where she will present our work entitled: *Additive Manufacturing of Triply Periodic Minimal Surface Structures as Electrodes for Redox Flow Batteries* in Session MS22 on Thursday 22nd at 14:45. She will also chair the MS19 session Tuesday at 9:05. We hope to see you there!\
+Maxime van der Heijden will attend the InterPore Annual conference in Albuquerque, where she will present our work entitled: *Additive Manufacturing of Triply Periodic Minimal Surface Structures as Electrodes for Redox Flow Batteries* in Session MS22 on Thursday 22nd at 14:45. She will also chair the MS19 session Tuesday at 9:05. We hope to see you there!
 
 ## Past events:
 **Minh-Anh joins our team!**\
